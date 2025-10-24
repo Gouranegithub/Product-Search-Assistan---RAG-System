@@ -2,6 +2,7 @@
 
 A sophisticated product recommendation system built with **LangChain**, **Streamlit**, **Groq**, and **Ollama** that provides intelligent product suggestions based on a comprehensive product database.
 
+![Alt text of the image](https://github.com/Gouranegithub/Product-Search-Assistan---RAG-System/blob/main/demo_image.PNG)
 ## 🌟 Features
 
 - **🤖 AI-Powered Recommendations**: Uses Groq's LLaMA 3.1-8b-instant model for intelligent responses

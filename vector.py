@@ -6,7 +6,7 @@ import pandas as pd
 
 # Check if Ollama is running and model is available
 try:
-    df = pd.read_csv("products-100.csv")
+    df = pd.read_csv("products-10000.csv")
     print(f"Loaded {len(df)} products from CSV")
     
     # Try to initialize embeddings

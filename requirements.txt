@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+langchain-chroma
+langchain-ollama
+groq
+python-dotenv
+streamlit
+pandas
